@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Travis
-- 👀 I’m interested in HTML, CSS, JavaScript, Python
-- 🌱 I’m currently learning shell scripting language (bash)
-- 💞️ I’m looking to collaborate on any project on web/software development
+- 👋 Hi, I’m Ikechukwu
+- 👀 I’m interested in webdevelopment, Python, Cybersecurity.
+- 🌱 I’m Google certified cybersecurity professional.
+- 💞️ I’m looking to collaborate on any project on cybersecurity analysis.
 - 📫 How to reach me chigbuikechukwu@gmail.com
 
 <!---
